@@ -1,7 +1,7 @@
-# Title: jerrimath's Galcomm-Hosts-Formatted.txt
-# Released: 2020-06-20 (updated with appx c/d)
-# Count: 15212 + 249 = 15461 domains
-# Repo, details: https://github.com/jerrimath/GalComm_Blocklist
+# Title: jjjxu's Pegasus-Hosts-Formatted.txt
+# Released: 2021-07-22
+# Count: 1406 domains
+# Repo, details: https://github.com/jjjxu/NSO_Pegasus_Blocklist
 #
 # All credit goes to the Amnesty International team for their hard work. 
 #
